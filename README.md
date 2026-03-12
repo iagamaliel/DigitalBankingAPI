@@ -358,18 +358,6 @@ Ejemplo de error:
 
 ---
 
-# Colección de Postman
-
-Se incluye colección para pruebas en:
-
-```
-/Postman/DigitalBankingAPI.postman_collection.json
-```
-
-Importar en **Postman** para probar todos los endpoints rápidamente.
-
----
-
 # Autor
 
 Proyecto desarrollado como parte de una **prueba técnica backend**, demostrando:
