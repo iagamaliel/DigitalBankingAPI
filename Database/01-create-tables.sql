@@ -1,5 +1,3 @@
-CREATE DATABASE DigitalBankingDb;
-GO
 
 USE DigitalBankingDb;
 GO
